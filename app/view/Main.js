@@ -1,4 +1,4 @@
-Ext.define('SenchaTodolist.view.Main', {
+Ext.define('RevivalxSenchaTodolist.view.Main', {
     extend: 'Ext.tab.Panel',
     xtype: 'main',
     requires: [
